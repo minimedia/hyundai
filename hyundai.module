@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the hyundai feature.
+ */
+
+include_once 'hyundai.features.inc';
